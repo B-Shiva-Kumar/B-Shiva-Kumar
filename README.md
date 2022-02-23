@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @B-Shiva-Kumar 😎
-- 👀 I’m interested in ...ML.. DL.. NLP.. AI...
-- 🌱 I’m currently learning ...NLP✨
-- 💞️ I’m looking to collaborate on ...ML & NLP
-- 📫 How to reach me ...Insta - @i_am_b_s_k
+- 👀 I’m interested in ALL
+- 🌱 I’m currently learning Frontend✨
+- 📫 How to reach me ...Insta - @i_am_b_s_k & LinkdIn --> https://www.linkedin.com/in/shiva-kumar-b-linkdin/
 
 <!---
 B-Shiva-Kumar/B-Shiva-Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
