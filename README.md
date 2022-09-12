@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B-Shiva-Kumar 😎
 - 👀 I’m interested in ALL
-- 🌱 I’m currently learning Backend✨
+- 🌱 I’m currently learning GCP, AWS & Backend✨
 - 📫 How to reach me ...Insta - @i_am_b_s_k & LinkdIn --> https://www.linkedin.com/in/shiva-kumar-b-linkdin/
 
 <!---
