@@ -1,4 +1,4 @@
-<h1>Hi, I’m Shiva Kumar 😎 <img src="https://user-images.githubusercontent.com/92181068/189723347-59669eba-6709-4ac3-8af6-9e7477ae0876.gif" width="50" height="50"/></h1> 
+<h1>Hey there, I’m Shiva Kumar 😎 <img src="https://user-images.githubusercontent.com/92181068/189723347-59669eba-6709-4ac3-8af6-9e7477ae0876.gif" width="50" height="50"/></h1> 
 
 - 🌱 I’m focusing & specializing in AWS, GCP, & Terraform✨.
 - Let's connect here via [LinkdIn.in](https://www.linkedin.com/in/shiva-kumar-b-linkdin/) <img src="https://user-images.githubusercontent.com/92181068/189807967-4438b154-ec22-4887-8df8-289ece96a4ef.gif" width="30" height="30"/>
